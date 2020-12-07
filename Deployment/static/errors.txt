@@ -1,0 +1,12 @@
+ID Should be less than 10000 
+X1 Should be a categorical variable whose length should be less than 3 
+X4 Should be a categorical variable whose length should be less than 3 
+X11 Should be a binary variable with either 0 or 1 
+X24 Should be a binary variable with either 0 or 1 
+X91 Should be a binary variable with either 0 or 1 
+X142 Should be a binary variable with either 0 or 1 
+X226 Should be a binary variable with either 0 or 1 
+X327 Should be a binary variable with either 0 or 1 
+X384 Should be a binary variable with either 0 or 1 
+Input X1 value is not present in test data. Please enter a valid X1 value
+Input X4 value is not present in test data. Please enter a valid X4 value
